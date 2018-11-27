@@ -1,5 +1,7 @@
 # Cheat Sheet Terminal
 
+![Logo Terminal | 80x80 ](https://upload.wikimedia.org/wikipedia/commons/a/a7/GNOME_Terminal_logo.png)
+
 
 **Base commandes**
 
