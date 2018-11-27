@@ -1,8 +1,10 @@
 # Git Cheat Sheet
 
+![Logo Git | 80x80 ](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png)
+
 ## Configure 
 
-* git config --global user.name"[name]"
+* git config --global user.name "[name]"
 * git config --global user.email "[email]"
 
 ## Create Repositories
