@@ -3,9 +3,9 @@
 ![Logo Git | 70x70 ](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png)
 
 ## Configure 
-
-* `git config --global user.name "[name]"`
-* `git config --global user.email "[email]"`
+  
+ * `git config --global user.name "[name]"` 
+ * `git config --global user.email "[email]"` 
 
 ## Create Repositories
 
