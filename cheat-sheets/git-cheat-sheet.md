@@ -26,3 +26,8 @@
 * git merge [branch]
 * git branch -d [branch name]
 
+## Review History
+
+* git log
+* git show [commit]
+
