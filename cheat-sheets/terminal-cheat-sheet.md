@@ -20,6 +20,4 @@
 | rmdir | remove directory |
 | mkdir | make directory | 
 | {command} --help | show the help of the command | 
-| man {command} | show the manual of the command |
-
- 
+| man {command} | show the manual of the command | 
