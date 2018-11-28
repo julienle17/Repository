@@ -1,6 +1,6 @@
 # Git Cheat Sheet
 
-![Logo Git | 80x80 ](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png)
+![Logo Git | 70x70 ](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png)
 
 ## Configure 
 
